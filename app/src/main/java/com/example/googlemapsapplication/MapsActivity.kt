@@ -23,6 +23,7 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
         mapFragment.getMapAsync(this)
         mapFragment.getMapAsync(this)
         mapFragment.getMapAsync(this)
+        mapFragment.getMapAsync(this)
     }
 
     /**
